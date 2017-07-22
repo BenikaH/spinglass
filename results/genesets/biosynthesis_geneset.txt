@@ -1,0 +1,1 @@
+biosynthesis  genesetKARS CD48 VARS RPS6KA1 EEF1D GARSKTN1 CTBP1 CTBP2 C10orf4HEXDC

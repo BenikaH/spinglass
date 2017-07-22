@@ -1,0 +1,1 @@
+cell_receptor genesetLY6EVAV1 FCGR2B EPHA2 CD247ZAP70 LAT SLA FGFR1
